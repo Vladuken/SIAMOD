@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SIAMOD</string>
+    <string name="expected_value">Мат. ожидание:</string>
+    <string name="dispersion">Дисперсия:</string>
+    <string name="standart_deviation">Ср. кв. отклонение:</string>
+    <string name="indirect_signs">Косв. признаки:</string>
+    <string name="period">Период:</string>
+    <string name="aperiodic">Участок апериодичности:</string>
+    <string name="amount">Количество</string>
+    <string name="generate">Сгенерировать</string>
+    <string name="error">Ошибка</string>
+    <string name="more_than_number">больше чем %1$d</string>
+    <string name="uniform_distribution">Равномерное распределение</string>
+    <string name="gauss_distribution">Гауссовское распределение</string>
+    <string name="exponential_distribution">Экспоненциальное распределение</string>
+    <string name="gamma_distribution">Гамма-распределение</string>
+    <string name="triangle_distribution">Треугольное распределение</string>
+    <string name="simpson_distribution">Распределение симпсона</string>
+</resources>
